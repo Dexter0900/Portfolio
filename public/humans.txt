@@ -1,10 +1,8 @@
 /* TEAM */
-	Developer: Bogdan Kostyuk.
-	Telegram: https://t.me/bogdankostyuk.
-	Location: Ukraine, if you wanna know more, write me 😁.
+	Developer: Preet Kumar.
+	Telegram: https://t.me/Preet_Rajput_9000.
+	Location: India, if you wanna know more, write me 😁.
 
-/* THANKS */
-	Patterns: taken from: https://products.ls.graphics/paaatterns
 
 /* SITE */
 	Software: Nuxt.js, Gsap, Three.js, Scss, Locomotive Scroll

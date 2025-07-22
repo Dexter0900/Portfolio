@@ -63,7 +63,7 @@ onMounted(() => {
         </ul>
 
         <p class="footer__content__copyright">
-          Copyright ©{{ getCurrentYear() }} BK
+          Copyright ©{{ getCurrentYear() }} PK
         </p>
 
         <p class="footer__content__note">

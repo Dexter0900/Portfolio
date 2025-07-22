@@ -9,7 +9,7 @@
       target="_blank"
       class="flag-stripe__content"
     >
-      Help Ukraine
+      HIRE ME
     </NuxtLink>
   </div>
 </template>
