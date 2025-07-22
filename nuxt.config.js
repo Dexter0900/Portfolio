@@ -31,7 +31,7 @@ export default defineNuxtConfig({
         { property: 'og:type', name: 'og:type', content: 'website' },
       ],
       link: [
-        { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
+        { rel: 'icon', type: 'image/svg+xml', href: '/PK_favicon.svg' },
         {
           rel: 'icon',
           type: 'image/x-icon',
