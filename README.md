@@ -27,8 +27,6 @@ git clone https://github.com/Dexter0900/portfolio.git
 cd portfolio
 ```
 
-````
-
 ### 2️⃣ Install dependencies
 
 ```bash
@@ -90,4 +88,7 @@ The code is open-source under the [MIT License](LICENSE).
 
 Agar tum chaho to ek version bana ke `.md` file me bhi export kar ke de sakta hoon jo seedha paste kar do. Bolo?
 ```
-````
+
+```
+
+```
