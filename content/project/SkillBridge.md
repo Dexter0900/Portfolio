@@ -1,6 +1,6 @@
 ---
 description: 'This website, as you might already notice, is my portfolio. I am using it to showcase what I learn and what I can do. It was built with the cutting-edge framework Nuxt'
-source: 'https://github.com/logotip4ik/portfolio'
+source: 'https://github.com/Dexter0900/SkillBridge'
 live: 'https://bogdankostyuk.xyz'
 tags:
   - Website
@@ -9,18 +9,18 @@ tags:
   - three.js
   - gsap
   - SCSS
-image: '/img/portfolio-logo.webp'
-previewImage: '/img/portfolio.webp'
-createdAt: '2022-03-31T00:00:00+03:00'
+image: '/img/SkillBridge-img2.png'
+previewImage: '/img/SkillBridge-img.png'
+createdAt: '2024-03-31T00:00:00+03:00'
 ---
 
 ::project-header
 :::project-title
-Portfolio Version 3
+SkillBridge
 :::
 
 #source
-[source](https://github.com/logotip4ik/portfolio)
+[source](https://github.com/Dexter0900/SkillBridge)
 ::
 
 ::project-main
@@ -33,12 +33,10 @@ This website, as you might already notice, is my portfolio. I am using it to sho
 
 While building this website, I faced a lot of different and exceptional issues. One was breaking everything after moving one line of code up or down :sweat_smile:. Another was, how to reconcile Nuxt3, GSAP, and Locomotive Scroll in one package, so the route transition looks soft and native. But after trials and errors, something proper was created. Feel free to break everything :joy:.
 
-- [github](https://github.com/logotip4ik)
-- [twitter](https://twitter.com/BogdanKostyuk_)
-- [telegram](https://t.me/bogdankostyuk)
-- [linkedin](https://www.linkedin.com/in/bogdankostyuk)
-- [blog](https://blog.bogdankostyuk.xyz)
-- [email](mailto:contact@bogdankostyuk.xyz)
+- [github](https://github.com/Dexter0900/SkillBridge)
+- [telegram](https://t.me/Preet_Rajput_9000)
+- [linkedin](https://www.linkedin.com/in/preet-kumar-59004625a/)
+- [email](mailto:preet451383@gmail.com)
 
 <br />
 
