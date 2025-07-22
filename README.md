@@ -78,17 +78,9 @@ The code is open-source under the [MIT License](LICENSE).
 
 ```
 
----
 
 ### 🪄 Next step:
 ✅ Replace `https://your-vercel-url.vercel.app` with the actual deployed URL once you deploy.
 ✅ Replace `https://github.com/Dexter0900/portfolio.git` with your repo link.
-
----
-
-Agar tum chaho to ek version bana ke `.md` file me bhi export kar ke de sakta hoon jo seedha paste kar do. Bolo?
-```
-
-```
 
 ```
