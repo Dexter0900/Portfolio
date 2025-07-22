@@ -43,11 +43,11 @@ onMounted(() => {
     >
       <div class="footer__content">
         <p class="footer__content__title">
-          <span class="footer__content__title__line">Bogdan</span>
+          <span class="footer__content__title__line">Preet</span>
           <span
             class="footer__content__title__line footer__content__title__line--pl"
           >
-            Kostyuk
+            Kumar
           </span>
         </p>
         <ul class="footer__content__social-links">
