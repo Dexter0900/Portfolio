@@ -76,11 +76,7 @@ The code is open-source under the [MIT License](LICENSE).
 
 > Developed & maintained by **Preet Kumar**
 
-```
-
-
 ### 🪄 Next step:
+
 ✅ Replace `https://your-vercel-url.vercel.app` with the actual deployed URL once you deploy.
 ✅ Replace `https://github.com/Dexter0900/portfolio.git` with your repo link.
-
-```
