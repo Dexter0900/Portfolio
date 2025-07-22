@@ -1,13 +1,13 @@
 <template>
-  <div tabindex="0" class="flag-stripe" data-scroll-sticky>
-    <div class="flag-stripe__line"></div>
-    <div class="flag-stripe__line"></div>
+  <div tabindex="0" class="sidebar" data-scroll-sticky>
+    <div class="sidebar__line"></div>
+    <div class="sidebar__line"></div>
 
     <NuxtLink
       v-hoverable.outer-link
-      href="https://u24.gov.ua"
+      href="https://github.com/Dexter0900"
       target="_blank"
-      class="flag-stripe__content"
+      class="sidebar__content"
     >
       HIRE ME
     </NuxtLink>
@@ -15,7 +15,7 @@
 </template>
 
 <style lang="scss" scoped>
-.flag-stripe {
+.sidebar {
   position: fixed;
   top: 0;
   left: 0;
@@ -47,11 +47,11 @@
     height: 50%;
 
     &:nth-child(1) {
-      background-color: #2659ac;
+      background: linear-gradient(to bottom, #222, #444);
       top: 0;
     }
     &:nth-child(2) {
-      background-color: #f8d447;
+      background: linear-gradient(to top, #222, #000);
       top: 50%;
     }
   }
@@ -62,7 +62,7 @@
     left: 50%;
 
     font-size: calc(var(--step-2) - 0.125rem);
-    color: #030303;
+    color: #fff;
     text-transform: capitalize;
     text-decoration: none;
 

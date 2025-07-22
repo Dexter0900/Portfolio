@@ -20,7 +20,7 @@ export default defineNuxtConfig({
         { name: 'format-detection', content: 'telephone=no' },
         { name: 'robots', content: 'all' },
         { name: 'theme-color', content: 'var(--surface-color)' },
-        { name: 'apple-mobile-web-app-capable', content: 'yes' },
+        { name: 'mobile-web-app-capable', content: 'yes' },
         { name: 'copyrighted-site-verification', content: 'c552f044f4e41c2b' },
         {
           property: 'og:site_name',

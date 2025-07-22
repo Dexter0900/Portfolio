@@ -23,7 +23,7 @@ function setVh() {
 }
 
 function showFlagStripes() {
-  gsap.from('.flag-stripe__line', {
+  gsap.from('.sidebar__line', {
     xPercent: -25,
     stagger: 0.125,
     ease: 'expo.out',
@@ -68,7 +68,7 @@ onMounted(() => {
 
 <template>
   <VNavbar />
-  <UkraineFlagStripe />
+  <VSidebar />
 
   <Transition
     :css="false"
