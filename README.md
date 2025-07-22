@@ -1,4 +1,3 @@
-````markdown
 # Preet Kumar — Portfolio
 
 This is my personal portfolio website, built to showcase my skills, projects, and journey as a developer.
@@ -27,6 +26,7 @@ This is my personal portfolio website, built to showcase my skills, projects, an
 git clone https://github.com/Dexter0900/portfolio.git
 cd portfolio
 ```
+
 ````
 
 ### 2️⃣ Install dependencies
@@ -90,3 +90,4 @@ The code is open-source under the [MIT License](LICENSE).
 
 Agar tum chaho to ek version bana ke `.md` file me bhi export kar ke de sakta hoon jo seedha paste kar do. Bolo?
 ```
+````
