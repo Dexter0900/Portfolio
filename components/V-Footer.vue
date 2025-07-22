@@ -67,20 +67,11 @@ onMounted(() => {
         </p>
 
         <p class="footer__content__note">
-          Made with
+          Made in
           <img
-            title="love"
+            title="India"
             loading="lazy"
-            src="~/assets/img/heart.png"
-            width="60"
-            height="60"
-            alt="love"
-          />
-          in
-          <img
-            title="Ukraine"
-            loading="lazy"
-            src="~/assets/img/ukraine-flag.png"
+            src="~/assets/img/India.png"
             width="70"
             height="70"
             alt="ukraine"

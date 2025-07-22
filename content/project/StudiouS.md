@@ -24,7 +24,7 @@ StudiouS
 
 ::project-main
 :::project-section{type="fwidth"}
-::::project-image{type="fwidth" :src="image" alt="Student Recruiting Department Logo" preload}
+::::project-image{type="fwidth" :src="image" alt="StudiouS" preload}
 :::
 
 :::project-section{type="text"}

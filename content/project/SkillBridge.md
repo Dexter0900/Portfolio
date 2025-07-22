@@ -1,14 +1,13 @@
 ---
-description: 'This website, as you might already notice, is my portfolio. I am using it to showcase what I learn and what I can do. It was built with the cutting-edge framework Nuxt'
+description: 'SkillBridge is a student-friendly web app that provides easy access to curated study materials, built with React, Firebase, and TailwindCSS for a seamless learning experience.'
 source: 'https://github.com/Dexter0900/SkillBridge'
 live: 'https://bogdankostyuk.xyz'
 tags:
   - Website
-  - SEO
-  - Nuxt.js
-  - three.js
-  - gsap
-  - SCSS
+  - Node.js
+  - Vite + React/TypeScript
+  - Tailwind CSS
+  -
 image: '/img/SkillBridge-img2.png'
 previewImage: '/img/SkillBridge-img.png'
 createdAt: '2024-03-31T00:00:00+03:00'
@@ -25,13 +24,11 @@ SkillBridge
 
 ::project-main
 :::project-section{type="fwidth"}
-::::project-image{type="fwidth" :src="image" alt="My Portfolio Website Logo" preload}
+::::project-image{type="fwidth" :src="image" alt="SkillBridge" preload}
 :::
 
 :::project-section{type="text"}
-This website, as you might already notice, is my portfolio. I am using it to showcase what I learn and what I can do. It was built with the cutting-edge framework [Nuxt3](https://v3.nuxtjs.org){no-lowercase size-inherit} (pretty cool phrase, isn't it :smile: ?). [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/){no-lowercase size-inherit} was used for creating smooth scroll on desktop screen, it can also do so on mobile, but I found it wasn't performing well enough. Also, pretty obvious is GreenSock's tool - [GSAP](https://greensock.com/gsap/){no-lowercase size-inherit}. Last but not least important tool is [OGL](https://github.com/oframe/ogl){no-lowercase size-inherit}. This is like ThreeJS, but _a lot_ smaller in size and delivers pretty much every tool you need to build some 3d scene.
-
-While building this website, I faced a lot of different and exceptional issues. One was breaking everything after moving one line of code up or down :sweat_smile:. Another was, how to reconcile Nuxt3, GSAP, and Locomotive Scroll in one package, so the route transition looks soft and native. But after trials and errors, something proper was created. Feel free to break everything :joy:.
+SkillBridge is a web application designed to help students and learners access high-quality study materials and resources with ease. Built with a focus on simplicity and usability, it offers a clean interface, organized content, and responsive design to support efficient learning. The platform is developed using React, Firebase, and TailwindCSS, ensuring a fast, secure, and modern user experience.
 
 - [github](https://github.com/Dexter0900/SkillBridge)
 - [telegram](https://t.me/Preet_Rajput_9000)

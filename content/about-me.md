@@ -1,1 +1,1 @@
-My name is Preet Kumar and I am Ukrainian based Front End developer, passionate about UI effects, animations and code. Mostly in use are NuxtJS and Next.js, SCSS for styling and GreenSock for smooth animations, also recently got my hands on custom shaders with ThreeJS and OGL.
+I’m Preet Kumar, a full-stack developer who enjoys building responsive and user-friendly web applications. I work with technologies like React, Vue/Nuxt, Firebase, and TailwindCSS, and I’m focused on writing clean, maintainable code while continuously learning and improving.
