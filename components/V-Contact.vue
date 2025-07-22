@@ -44,6 +44,7 @@ onMounted(() => {
       v-hoverable.mail
       href="mailto:preet451383@gmail.com"
       class="contact__email"
+      target="_blank"
     >
       <span
         v-for="row in rowsCount"
