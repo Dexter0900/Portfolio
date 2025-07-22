@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, built to showcase my skills, projects, and journey as a developer.
 
-🌐 **Live Site:** [https://portfolio-blond-iota-39.vercel.app/](https://portfolio-blond-iota-39.vercel.app/)
+🌐 **Live Site:** [Click Here](https://portfolio-blond-iota-39.vercel.app/)
 
 ---
 
