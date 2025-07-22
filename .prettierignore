@@ -1,0 +1,5 @@
+public
+.nuxt
+.output
+dist
+.yarn
