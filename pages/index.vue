@@ -8,9 +8,9 @@ if (process.server) {
 }
 
 useHead({
-  title: 'Front End Developer',
+  title: 'Full-Stack Developer',
   meta: [
-    { property: 'og:title', name: 'og:title', content: 'Front End Developer' },
+    { property: 'og:title', name: 'og:title', content: 'Full-Stack Developer' },
     { name: 'description', content: 'Perfection hides in details' },
     {
       property: 'og:description',
