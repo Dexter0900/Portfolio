@@ -7,7 +7,7 @@ tags:
   - Node.js
   - Vite + React/TypeScript
   - Tailwind CSS
-  -
+  - Express
 image: '/img/SkillBridge-img2.png'
 previewImage: '/img/SkillBridge-img.png'
 createdAt: '2024-03-31T00:00:00+03:00'
