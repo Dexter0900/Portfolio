@@ -1,6 +1,7 @@
 ---
 title: 'StudiouS'
 description: StudiouS — A modern, student-centric web app that helps learners access curated study materials effortlessly. Built with React, Firebase, and TailwindCSS, StudiouS provides a clean interface, user authentication, and a central hub for notes, guides, and resources to make learning more efficient and organized.
+source: 'https://github.com/Dexter0900/StudiouS'
 live: 'https://studious-rho.vercel.app/'
 tags:
   - 'Website'
@@ -9,7 +10,7 @@ tags:
   - 'Tailwind CSS'
   - 'Firebase'
 image: '/img/Studious-img2.png'
-previewImage: '/img/Studious-img2.png'
+previewImage: '/img/Studious-img.png'
 createdAt: '2022-04-01T00:00:00+03:00'
 ---
 
@@ -32,9 +33,10 @@ StudiouS
 Built using React for a responsive and dynamic user interface, Firebase Authentication & Firestore for secure login and real-time data storage, and styled with TailwindCSS for a modern and mobile-friendly design.
 StudiouS streamlines the learning process by providing a centralized platform for curated notes and resources, helping students stay focused and productive.
 
-- [tg](https://t.me/Preet_Rajput_9000)
-- [ig](https://www.instagram.com/_preet_rajput_9000)
 - [github](https://github.com/Dexter0900)
+- [telegram](https://t.me/Preet_Rajput_9000)
+- [linkedin](https://www.linkedin.com/in/Preet-Rajput)
+- [email](mailto:preet451383@gmail.com)
 - [live](https://studious-rho.vercel.app/)
 
 :::

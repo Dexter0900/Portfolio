@@ -32,8 +32,9 @@ SkillBridge is a web application designed to help students and learners access h
 
 - [github](https://github.com/Dexter0900/SkillBridge)
 - [telegram](https://t.me/Preet_Rajput_9000)
-- [linkedin](https://www.linkedin.com/in/preet-kumar-59004625a/)
+- [linkedin](https://www.linkedin.com/in/Preet-Rajput)
 - [email](mailto:preet451383@gmail.com)
+
 
 <br />
 

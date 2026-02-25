@@ -1,7 +1,15 @@
 <script setup>
-const { data: projects } = await useAsyncData('projects', () =>
-  queryContent('project').sort({ createdAt: -1 }).find(),
-);
+// Fetch all projects and manually order them
+const { data: projects } = await useAsyncData('projects', async () => {
+  const allProjects = await queryContent('project').find();
+  // Manually set the order: TaskEngineX, StudiouS, SkillBridge
+  const order = ['TaskEngineX', 'StudiouS', 'SkillBridge'];
+  // Sort projects by title according to the order array
+  return order.map(name => allProjects.find(p => p.title === name)).filter(Boolean);
+});
+
+// Comment: Above code fetches all projects and sorts them manually by title.
+// Adjust the 'order' array if you want to change the sequence.
 </script>
 
 <template>
