@@ -1,11 +1,31 @@
 <script setup>
+// Cyclic next project logic
 const route = useRoute();
-const { data: surrounded } = await useAsyncData(
-  `surround-project-${route.params.slug}`,
-  () => queryContent('project').findSurround(route.fullPath),
+const { data: allProjects } = await useAsyncData('all-projects', () =>
+  queryContent('project').find(),
 );
 
-const next = computed(() => surrounded.value[1] || surrounded.value[0]);
+// Manually set the order to match the main project list
+const order = ['TaskEngineX', 'StudiouS', 'SkillBridge'];
+const orderedProjects = computed(() =>
+  order
+    .map((name) => allProjects.value.find((p) => p.title === name))
+    .filter(Boolean),
+);
+
+const currentIndex = computed(() =>
+  orderedProjects.value.findIndex((p) => p._path === route.fullPath),
+);
+const next = computed(() => {
+  // If not found, fallback to first
+  if (currentIndex.value === -1) return orderedProjects.value[0];
+  // Cyclic next
+  return orderedProjects.value[
+    (currentIndex.value + 1) % orderedProjects.value.length
+  ];
+});
+
+// Comment: Above logic ensures cyclic navigation between projects in the specified order.
 
 if (process.server) {
   useHead(
